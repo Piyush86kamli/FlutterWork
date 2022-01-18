@@ -1,6 +1,4 @@
 // To parse this JSON data, do
-//
-//     final signupPojo = signupPojoFromJson(jsonString);
 
 import 'dart:convert';
 
