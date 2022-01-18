@@ -6,7 +6,6 @@ import 'package:pixell_app/network/rest_ds.dart';
 
 abstract class SignupContract {
   void onSignupSuccess(SignupPojo user);
-
   void onSignupError(String errorTxt);
 }
 
